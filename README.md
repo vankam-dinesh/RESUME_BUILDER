@@ -34,7 +34,7 @@ cd resume-builder
 ```
 3. Install dependencies
 ```bash
-npm install
+npm install 
 ```
 4. Run the app
 ```bash
