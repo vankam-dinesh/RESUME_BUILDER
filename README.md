@@ -18,10 +18,6 @@ Here are some screenshots of the project to give you an idea of its features and
 ![Home Page](https://user-images.githubusercontent.com/87645745/213860435-ef02b36f-adbd-4517-b103-174c3dcb7be9.png)
 
 
-
-###### About Page
-![About Page](https://user-images.githubusercontent.com/87645745/213860448-cefcc6f0-8d58-4ce6-8d94-1f5c4271f87f.png)
-
 ###### Dark Mode
 ![Dark Mode](https://user-images.githubusercontent.com/87645745/213860517-73a40b9c-dd35-4586-a253-757c654f19c7.png)
 
