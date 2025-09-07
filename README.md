@@ -10,7 +10,7 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 - Image upload for profile picture
 
 
-LIVE:https://resume-builders.onrender.com
+LIVE : https://resume-builders.onrender.com
 
 ![Star History Chart](https://api.star-history.com/svg?repos=imhardikdesai/Resume-Builder&type=Dat)
 
